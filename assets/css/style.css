@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-image:url(../images/psychic.jpg)
+}
+
+div.game {
+    margin: 30px;
+    background-color:#ffffff;
+    border: 1px solid black;
+    opacity: 0.7;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+div.game p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+    font-size:22px;
+}
+
+div.game h1 {
+    font-size: 36px;
+}
